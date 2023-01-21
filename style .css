@@ -1,0 +1,23 @@
+
+
+{
+    text-decoration: none;
+}
+button :active{
+    background-color: rgb(126, 116, 116);
+}
+.sport{
+    text-transform: uppercase;
+}
+.space{
+    word-spacing: 1em;
+}
+a:hover {
+    color: deeppink;
+}.medium{
+    float: right;
+margin-left: 25px;
+}.picture{
+    float: right;
+margin-left: 5px;
+}
